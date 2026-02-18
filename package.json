@@ -1,0 +1,12 @@
+{
+  "name": "desktop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "index.js": "0.0.3",
+    "uuid": "^13.0.0",
+    "validator": "^13.15.26"
+  },
+  "type": "module"
+}
